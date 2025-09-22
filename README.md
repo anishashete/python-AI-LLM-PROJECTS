@@ -1,2 +1,2 @@
-# python-AI-LLM-PROJECTS
+# python-AI-LLM-projects
  GEN AI
